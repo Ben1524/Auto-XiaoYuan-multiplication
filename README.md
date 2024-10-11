@@ -6,6 +6,8 @@
 <video width="320" height="240" controls>
   <source src="lv_0_20241011082249.mp4" type="video/mp4">
 </video>
+[演示视频](https://github.com/Ben1524/Auto-XiaoYuan-multiplication/blob/main/lv_0_20241011082249.mp4)
+
 
 
 ## 需求

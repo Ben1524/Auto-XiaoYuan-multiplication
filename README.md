@@ -1,6 +1,11 @@
 # 小猿口算乘法自动答题
 
 该项目使用 Python 捕获屏幕截图，识别图像中的数字，并使用鼠标移动在屏幕上绘制结果。它利用了 `pyautogui`、`pytesseract`、`cv2` 和 `numpy` 等库。
+## 演示视频
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 需求
 
